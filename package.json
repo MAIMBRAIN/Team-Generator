@@ -1,0 +1,27 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "HTML team generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAIMBRAIN/Team-Generator.git"
+  },
+  "author": "Avery Stahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAIMBRAIN/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/MAIMBRAIN/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
+  }
+}
